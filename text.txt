@@ -1,0 +1,6 @@
+aboutme:
+
+    Hi! I am a junior developer interested in creating modern, functional, and user-friendly websites and applications.
+
+I work with HTML, CSS, Python, C++, Java, and C#, and have experience in web layout, UI/UX design, and basic programming.    
+    
